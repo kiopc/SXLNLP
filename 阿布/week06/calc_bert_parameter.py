@@ -2,7 +2,7 @@ import torch
 from transformers import BertModel
 
 
-# calc bert parmerms number
+# 计算bert参数数量
 bert = BertModel.from_pretrained(r"bert-base-chinese")
 parmers = bert.state_dict()
 w_sum = []
