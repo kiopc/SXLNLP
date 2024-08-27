@@ -4,5 +4,5 @@
 - week 03 根据字符所在位置实现分类任务
 - week 04 实现结巴中全切分分词
 - week 05
-- week 06
+- week 06 计算bert参数量
 - week 07
